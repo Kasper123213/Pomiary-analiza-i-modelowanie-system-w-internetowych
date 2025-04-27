@@ -1,3 +1,4 @@
-dane/
-catboost_info
-.ipynb_checkpoints
+*/dane/
+projekt1/catboost_info
+*/.ipynb_checkpoints
+projekt2/PAMSI_P2.pdf
